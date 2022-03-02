@@ -1,6 +1,6 @@
 ## RedditFetcher
 
-**Docs:** [github.com/Pironielsje/RedditFetcher/Docs/DOCS.md](https://github.com/Pironielsje/RedditFetcher/Docs/DOCS.md) <br>
+**Docs:** [github.com/Pironielsje/RedditFetcher/Docs/DOCS.md](./Docs/DOCS.md) <br>
 **Support:** [dsc.gg/icymountains](https://dsc.gg/icymountains) <br>
 **Npm:** [npmjs.com/redditfetcher](https://npmjs.com/package/redditfetcher)
 
