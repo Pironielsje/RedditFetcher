@@ -1,7 +1,7 @@
 ## RedditFetcher
 
-**Docs:** [github.com/Pironielsje/RedditFetcher/Docs/DOCS.md](https://github.com/Pironielsje/RedditFetcher/Docs/DOCS.md)
-**Support:** [dsc.gg/icymountains](https://dsc.gg/icymountains)
+**Docs:** [github.com/Pironielsje/RedditFetcher/Docs/DOCS.md](https://github.com/Pironielsje/RedditFetcher/Docs/DOCS.md) <br>
+**Support:** [dsc.gg/icymountains](https://dsc.gg/icymountains) <br>
 **Npm:** [npmjs.com/redditfetcher](https://npmjs.com/package/redditfetcher)
 
 RedditFetcher is a simple package that fetches posts from a given subreddits.
@@ -46,7 +46,6 @@ client.login(`Bot token here`)
 **Linux & Windows**
 - `npm i RedditFetcher`
 
-***Note:** Windows users may need to do additional steps [listed here](https://github.com/JoshuaWise/better-sqlite3/blob/master/docs/troubleshooting.md).*
 **Mac**
 1. **Install:** XCode
 2. **Run:** `npm i -g node-gyp` in terminal
