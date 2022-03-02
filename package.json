@@ -1,0 +1,19 @@
+{
+  "name": "redditfetcher",
+  "version": "0.1",
+  "description": "Fetch subreddits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "fetch",
+    "npm"
+  ],
+  "author": "Pironielsjejs",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
