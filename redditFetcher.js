@@ -1,7 +1,7 @@
 // Reddit Fetcher file
 
 const RedditFetcherError = require('./errors/RedditFetcherError')
-const fetch = require('node-fetch')
+const fetch = import('node-fetch')
 
 module.exports = async function redditFetcher({subreddit, sorting = 'top', nsfwAllowed, modPostAllowed, crossPostAllowed, videoAllowed}) {
     return new Promise((resolve, reject) => {
