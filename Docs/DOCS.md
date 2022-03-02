@@ -1,10 +1,10 @@
 ## Documentation
 
-This is the official documentation for RedditFetcher
+This is the official documentation for redditfetcherrr
 
 ## Installation
 
-To install this package run **npm i RedditFetcher**
+To install this package run **npm i redditfetcherrr**
 
 # Requiring the package
 
@@ -16,7 +16,7 @@ const redditFetch = require('RedditFetch)
 
 ```js
 const {Client, Intents} = require('discord.js')
-const redditFetcher = require('RedditFetcher')
+const redditFetcher = require('redditfetcherrr')
 
 const client = new Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]})
 
